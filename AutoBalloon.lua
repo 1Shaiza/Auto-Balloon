@@ -2,8 +2,8 @@ _G.autoBalloon = true
 
 local START_DELAY = 2 -- delay before starting
 local SERVER_HOP = true -- server hop after popping balloons
-local SERVER_HOP_DELAY = 3 -- delay before server hopping
-local BALLOON_DELAY = 3 -- delay before popping next balloon (if there are multiple balloons in the server)
+local SERVER_HOP_DELAY = 2 -- delay before server hopping
+local BALLOON_DELAY = 2 -- delay before popping next balloon (if there are multiple balloons in the server)
 local GET_BALLOON_DELAY = 5 -- delay before getting balloons again if none are detected
 
 
